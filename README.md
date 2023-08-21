@@ -4,6 +4,7 @@
 
 This project is a simple command-line tool built with Node.js that generates a README file for your project based on user input. The generated README file includes sections for project description, installation instructions, usage guidelines, contribution guidelines, testing instructions, licensing information, and contact details.
 [![Image of app](./images/screenshot.png)](https://github.com/NickUCLA/Nicks-README-Generator)
+[Demonstration Video](https://drive.google.com/file/d/1fdg4oqVZux7i6IyrY0fdQP_hfdGOfUSO/view?usp=sharing)
 
 ## Table of Contents
 
